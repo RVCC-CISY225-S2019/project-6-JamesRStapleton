@@ -7,7 +7,7 @@ Once the merge is complete, you will be checking your About Me page with real mo
 
 ![GH Pages](https://github.com/cynthiateeters/nav-demo/blob/master/readme-src/GitHubPagesMasterSource.png)
 ![GH Pages](https://github.com/RVCC-CISY225-S2019/project-6-JamesRStapleton/tree/master/readme-src/Screenshot_20190410-163525_Chrome.jpg)
-![GH Pages](https://github.com/RVCC-CISY225-S2019/project-6-JamesRStapleton/tree/master/readme-src/Screenshot_20190410-163533_Chrome.jpg)
+![GH Pages](https://github.com/RVCC-CISY225-S2019/project-6-JamesRStapleton/tree/master/readme-src/IMG_0856.jpg)
 You are going to have to download and add the files from your Project 5 into this repo. Then you'll edit your index.html and styles.css to make the required changes.  
 
 1. Download and unzip this nav-demo repo.
